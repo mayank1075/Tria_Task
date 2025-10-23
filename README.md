@@ -23,4 +23,4 @@ The goal of this project is to demonstrate proficiency in **React development**,
 
 ## 🌐 Deployment
 The project is deployed at:
-👉 
+- 👉 https://tria-task.vercel.app/
