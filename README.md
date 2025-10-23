@@ -20,3 +20,7 @@ The goal of this project is to demonstrate proficiency in **React development**,
 - ☁️ **Deployment:** Vercel   
 
 ---
+
+## 🌐 Deployment
+The project is deployed at:
+👉 
